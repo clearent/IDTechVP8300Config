@@ -1,6 +1,6 @@
 ![Screenshot](docs/clearent_logo.jpg)
 
-# IDTech VP8300 Configuration=
+# IDTech VP8300 Configuration
 
 ## Release Notes
 
@@ -10,6 +10,6 @@ VP8300 Unencrypted
 
 * No need to extend sleep mode
 
-* [Config File](config/good_betty_03061029.json)
+* Config file: config/good_betty_03062019.json
 
-* [Firmware VP3300 USB NEO v1.01.116 File](firmware/VP3300 USB NEO v1.01.116_USBHID.txt)
+* Firmware file: firmware/VP3300 USB NEO v1.01.116_USBHID.txt
