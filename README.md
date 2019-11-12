@@ -1,3 +1,5 @@
+![Screenshot](docs/clearent_logo.jpg)
+
 = Clearent IDTech VP8300 Configuration=
 
 VP8300
