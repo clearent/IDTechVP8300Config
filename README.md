@@ -10,6 +10,6 @@ VP8300 Unencrypted
 
 * No need to extend sleep mode
 
-* [Config File name](config/good_betty03061029.json)
+* [Config File](config/good_betty_03061029.json)
 
-* Firmware file name: VP3300 USB NEO v1.01.116_USBHID.txt
+* [Firmware VP3300 USB NEO v1.01.116 File](firmware/VP3300 USB NEO v1.01.116_USBHID.txt)
