@@ -26,6 +26,6 @@ Added support for contactless
 
 Date: 12-10-2019
 
-Modified the FFFC tag on the mastercard contactless configuration group so Apple Card will work.
+Modified the FFFC tag on the MasterCard contactless configuration group so Apple Card will work.
 
 * Config File: config/vp8300_tap_20191210.json
