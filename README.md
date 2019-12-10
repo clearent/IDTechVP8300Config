@@ -22,3 +22,10 @@ Added support for contactless
 * Config File: config/vp8300_tap_20191115.json
 
 * Firmware file: firmware/VP3300 USB NEO v1.01.175_USBHID.txt
+
+
+Date: 12-10-2019
+
+Modified the FFFC tag on the mastercard contactless configuration group so Apple Card will work.
+
+* Config File: config/vp8300_tap_20191210.json
